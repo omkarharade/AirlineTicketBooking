@@ -65,3 +65,7 @@ URL: <https://github.com/omkarharade/BookingService-AirlineTicketBooking.git>
 ## Email Service
 
 URL: <https://github.com/omkarharade/ReminderService-AirlineTicketBooking.git>
+
+## API Gateway Service
+
+URL: <https://github.com/omkarharade/APIGateway-AirlineTicketBooking.git>
